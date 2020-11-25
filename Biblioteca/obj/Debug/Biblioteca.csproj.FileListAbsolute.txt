@@ -1,0 +1,9 @@
+C:\prg\c#\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\prg\c#\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\prg\c#\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\prg\c#\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\prg\c#\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\prg\c#\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+C:\prg\c#\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\prg\c#\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\prg\c#\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
