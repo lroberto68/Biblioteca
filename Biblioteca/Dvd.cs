@@ -8,6 +8,6 @@ namespace Biblioteca
 {
     class Dvd: Documento
     {
-        public short Durata;
+        public short Durata { get; set; }
     }
 }

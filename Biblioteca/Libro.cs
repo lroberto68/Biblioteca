@@ -8,6 +8,6 @@ namespace Biblioteca
 {
     class Libro: Documento
     {
-        public short NumeroPagine;
+        public short NumeroPagine { get; set; }
     }
 }
